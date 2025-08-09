@@ -27,7 +27,7 @@
     "🖤",
     "💚"
   ],
-  "PREFIX": ".",
+  "PREFIX": "?",
   "MAX_RETRIES": 3,
   "GROUP_INVITE_LINK": "https://chat.whatsapp.com/ELDROCiWFCK8TcGwz8gCrK?mode=ac_t",
   "ADMIN_LIST_PATH": "./admin.json",
