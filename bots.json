@@ -11,7 +11,7 @@
     "statusView": true,
     "statusReact": true,
     "online": true,
-    "presence": "paused",
+    "presence": "recording",
     "button": false
   },
   {
