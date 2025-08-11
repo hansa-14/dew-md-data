@@ -12,7 +12,7 @@
     "statusReact": true,
     "online": true,
     "presence": "recording",
-    "button": false
+    "button": true
   },
   {
     "number": "94762349488",
@@ -49,6 +49,21 @@
     "prefix": ".",
     "owner": "AutoPair",
     "password": "d2dhx9yg",
+    "autoReply": true,
+    "autoVoice": true,
+    "autoReact": true,
+    "readCmd": true,
+    "statusView": true,
+    "statusReact": true,
+    "online": true,
+    "presence": "auto",
+    "button": true
+  },
+  {
+    "number": "94705063932",
+    "prefix": ".",
+    "owner": "AutoPair",
+    "password": "1eqx49j3",
     "autoReply": true,
     "autoVoice": true,
     "autoReact": true,
