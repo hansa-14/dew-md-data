@@ -5,7 +5,7 @@
     "owner": "",
     "password": "94781797124",
     "autoReply": true,
-    "autoVoice": false,
+    "autoVoice": true,
     "autoReact": false,
     "readCmd": false,
     "statusView": true,
