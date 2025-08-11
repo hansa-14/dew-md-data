@@ -4,15 +4,15 @@
     "prefix": ".",
     "owner": "hansa dewmina",
     "password": "94781797124",
-    "autoReply": false,
-    "autoVoice": false,
-    "autoReact": true,
+    "autoReply": true,
+    "autoVoice": true,
+    "autoReact": false,
     "readCmd": true,
     "statusView": true,
     "statusReact": true,
     "online": true,
-    "presence": "typing",
-    "button": true
+    "presence": "paused",
+    "button": false
   },
   {
     "number": "94762349488",
