@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "number": "94781797124",
+    "prefix": ".",
+    "owner": "AutoPair",
+    "password": "qafaioqq",
+    "autoReply": true,
+    "autoVoice": true,
+    "autoReact": true,
+    "readCmd": true,
+    "statusView": true,
+    "statusReact": true,
+    "online": true,
+    "presence": "auto",
+    "button": true
+  },
+  {
+    "number": "94762349488",
+    "prefix": ".",
+    "owner": "AutoPair",
+    "password": "hx0ajugq",
+    "autoReply": true,
+    "autoVoice": true,
+    "autoReact": true,
+    "readCmd": true,
+    "statusView": true,
+    "statusReact": true,
+    "online": true,
+    "presence": "auto",
+    "button": true
+  }
+]
