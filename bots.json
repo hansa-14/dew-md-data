@@ -7,7 +7,7 @@
     "autoReply": true,
     "autoVoice": true,
     "autoReact": false,
-    "readCmd": false,
+    "readCmd": true,
     "statusView": true,
     "statusReact": true,
     "online": true,
