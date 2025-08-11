@@ -9,7 +9,7 @@
     "autoReact": false,
     "readCmd": true,
     "statusView": true,
-    "statusReact": false,
+    "statusReact": true,
     "online": true,
     "presence": "paused",
     "button": true
