@@ -8,7 +8,7 @@
     "autoVoice": true,
     "autoReact": false,
     "readCmd": true,
-    "statusView": false,
+    "statusView": true,
     "statusReact": true,
     "online": true,
     "presence": "paused",
