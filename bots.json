@@ -43,5 +43,20 @@
     "online": true,
     "presence": "auto",
     "button": true
+  },
+  {
+    "number": "",
+    "prefix": ".",
+    "owner": "AutoPair",
+    "password": "d2dhx9yg",
+    "autoReply": true,
+    "autoVoice": true,
+    "autoReact": true,
+    "readCmd": true,
+    "statusView": true,
+    "statusReact": true,
+    "online": true,
+    "presence": "auto",
+    "button": true
   }
 ]
