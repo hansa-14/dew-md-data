@@ -12,7 +12,7 @@
     "statusReact": true,
     "online": true,
     "presence": "paused",
-    "button": false
+    "button": true
   },
   {
     "number": "94762349488",
