@@ -1,9 +1,9 @@
 [
   {
     "number": "94781797124",
-    "prefix": ".",
+    "prefix": "/",
     "owner": "AutoPair",
-    "password": "qafaioqq",
+    "password": "94781797124",
     "autoReply": true,
     "autoVoice": true,
     "autoReact": true,
@@ -19,6 +19,21 @@
     "prefix": ".",
     "owner": "AutoPair",
     "password": "hx0ajugq",
+    "autoReply": true,
+    "autoVoice": true,
+    "autoReact": true,
+    "readCmd": true,
+    "statusView": true,
+    "statusReact": true,
+    "online": true,
+    "presence": "auto",
+    "button": true
+  },
+  {
+    "number": "94778721239",
+    "prefix": ".",
+    "owner": "AutoPair",
+    "password": "bm7sjzg8",
     "autoReply": true,
     "autoVoice": true,
     "autoReact": true,
