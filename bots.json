@@ -1,12 +1,12 @@
 [
   {
     "number": "94781797124",
-    "prefix": "@",
-    "owner": "AutoPair",
+    "prefix": ".",
+    "owner": "",
     "password": "94781797124",
-    "autoReply": false,
-    "autoVoice": true,
-    "autoReact": true,
+    "autoReply": true,
+    "autoVoice": false,
+    "autoReact": false,
     "readCmd": false,
     "statusView": true,
     "statusReact": true,
