@@ -10,7 +10,7 @@
     "readCmd": true,
     "statusView": true,
     "statusReact": true,
-    "online": true,
+    "online": false,
     "presence": "paused",
     "button": true
   },
